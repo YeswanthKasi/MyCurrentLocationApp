@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocationDemo</string>
+    <string name="permission_rationale">This app needs location permissions to show your location on the map.</string>
+</resources>
